@@ -1,0 +1,16 @@
+{
+  "codename": "hdharmony24",
+  "ttf_path": "\\assets\\hd_harmonyL.ttf",
+  "bin_path": "\\assets\\ui_font_hdharmony24.bin",
+  "c_path": "\\assets\\ui_font_hdharmony24.c",
+  "cfg_path": "\\assets\\ui_font_hdharmony24.fcfg",
+  "size": 24,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

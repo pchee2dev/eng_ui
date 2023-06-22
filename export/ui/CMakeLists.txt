@@ -1,0 +1,12 @@
+SET(SOURCES screens/ui_Screen1.c
+    ui.c
+    ui_helpers.c
+    ui_events.c
+    fonts/ui_font_hdharmony24.c
+    fonts/ui_font_hdharmony28.c
+    fonts/ui_font_hdharmony32.c
+    fonts/ui_font_hdharmony32B.c
+    fonts/ui_font_hdharmony28B.c
+    fonts/ui_font_hdharmony24B.c)
+
+add_library(ui ${SOURCES})

@@ -1,0 +1,16 @@
+{
+  "codename": "hdharmony28B",
+  "ttf_path": "\\assets\\hd_harmoyB.ttf",
+  "bin_path": "\\assets\\ui_font_hdharmony28B.bin",
+  "c_path": "\\assets\\ui_font_hdharmony28B.c",
+  "cfg_path": "\\assets\\ui_font_hdharmony28B.fcfg",
+  "size": 28,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
